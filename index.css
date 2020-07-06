@@ -1,0 +1,17 @@
+#cover-pic {
+    width: 100%;
+    height: auto;
+}
+
+#headtag {
+    font-size: 48px;
+    text-align: center;
+}
+
+.page-content {
+    font-size: 24px;
+    line-height: 1.4;
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 32px;
+}
